@@ -8,6 +8,7 @@ public class MysmartpriceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MysmartpriceApplication.class, args);
+		System.out.println("Hii");
 	}
 
 }
